@@ -2,6 +2,14 @@
 
 > Dev Version 0.1.0
 
+> Engine: Unity 6000.0.26f1
+
+> Gradle: 8.4
+
+> Android Gradle Plugin: 8.3.0
+
+> JDK: OpenJDK Java17
+
 > Suggist Unity Android Project Export Path : `YourUnityProjectFolder/Build/Android`
 
 ## Step
